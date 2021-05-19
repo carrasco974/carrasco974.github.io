@@ -125,7 +125,7 @@ label{
     color: white;     
 }
 .corte1{    
-    margin-top: -570px;
+    margin-top: -590px;
     z-index: -1;
     position: absolute;
     width: 100%;
@@ -242,7 +242,6 @@ label{
     margin: 25px;
     margin-top: -5px;
 }
-}
 @media (max-width: 800px){
     /*menu hamburguesa*/
     .menuli{
@@ -347,17 +346,16 @@ label{
     }
     /*footer responsive*/
     .footer{
-        display: inline-block;    
+        display: block;    
     }
     .footer1{   
         display: inline-block;
-        margin-left: 70px; 
+        margin-left: 100px; 
     }
     .footer2 a{
         display: inline-block;
         text-decoration: none;
         list-style: none;
         margin-top: 50px;
-        width: auto;
     }
 }
