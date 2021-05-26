@@ -125,7 +125,7 @@ label{
     color: white;     
 }
 .corte1{    
-    margin-top: -590px;
+    margin-top: -570px;
     z-index: -1;
     position: absolute;
     width: 100%;
@@ -147,7 +147,7 @@ label{
 }
 .post1{    
     width: 93%;
-    height: auto;     
+    height: 232px;     
     border-radius: 10px;
     border: none;       
     overflow: hidden;
@@ -242,6 +242,7 @@ label{
     margin: 25px;
     margin-top: -5px;
 }
+}
 @media (max-width: 800px){
     /*menu hamburguesa*/
     .menuli{
@@ -320,6 +321,7 @@ label{
         grid-template-columns: auto;
     }
     .post1{
+        width: 300px;
         overflow: hidden;
     }
     #episodios #temas{
@@ -346,16 +348,17 @@ label{
     }
     /*footer responsive*/
     .footer{
-        display: block;    
+        display: inline-block;    
     }
     .footer1{   
         display: inline-block;
-        margin-left: 100px; 
+        margin-left: 70px; 
     }
     .footer2 a{
         display: inline-block;
         text-decoration: none;
         list-style: none;
         margin-top: 50px;
+        width: auto;
     }
 }
