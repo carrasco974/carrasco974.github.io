@@ -351,12 +351,13 @@ label{
     }
     .footer1{   
         display: inline-block;
-        margin-left: 70px; 
+        margin-left: 30px; 
     }
     .footer2 a{
         display: inline-block;
         text-decoration: none;
         list-style: none;
+        margin-left: 30px;
         margin-top: 50px;
         width: auto;
     }
