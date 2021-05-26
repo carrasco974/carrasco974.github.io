@@ -147,7 +147,7 @@ label{
 }
 .post1{    
     width: 93%;
-    height: 232px;     
+    height: auto;     
     border-radius: 10px;
     border: none;       
     overflow: hidden;
@@ -321,7 +321,7 @@ label{
         grid-template-columns: auto;
     }
     .post1{
-        width: 300px;
+        width: auto;
         overflow: hidden;
     }
     #episodios #temas{
