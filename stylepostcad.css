@@ -312,14 +312,14 @@ label{
     /*setion episodios responsive*/
     header{
         width: 100%;
-        height: 500px;
+        height: 550px;
     }
     .corte1{    
-        margin-top: -900px;
+        margin-top: -1050px;
         z-index: -1;
         position: absolute;
         width: 100%;
-        height: 1150px;
+        height: 1070px;
         background-image: linear-gradient(225deg, #0000FF 0%, #0000A3 100%);
         background-color: #0000A3 ;
         transform-origin: top right;
@@ -347,12 +347,11 @@ label{
         overflow: hidden;
         width: 298px;
         height: 225px;
-        gap: 5px;
     }
     #episodios #temas{
         color: white;
     }
-    #estelares #topicos{
+    #estelares #topicos #temas{
         margin-left: 20px;
     }
     /*setion phone responsive*/
