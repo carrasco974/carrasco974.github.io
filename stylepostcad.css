@@ -142,7 +142,7 @@ label{
     margin: 10px;
     justify-content: space-around;
     align-content: space-around;  
-    gap: 15px;
+    gap: 10px;
     position: relative;    
 }
 .post2{    
@@ -341,6 +341,7 @@ label{
     .post div{
         display: grid;
         grid-template-columns: auto;
+        gap: 5px;
     }
     .post2{
         border: none;
