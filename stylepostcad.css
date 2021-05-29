@@ -36,7 +36,7 @@ section{
 }
 .titulo{
     text-align: left;
-    margin-left: 100px;
+    margin-left: 50px;
     padding: 50px;
     margin: 30px;
 }
@@ -108,17 +108,17 @@ label{
 }
 #estelares{
     margin-top: 40px;
-    margin-left: 100px;
+    margin-left: 50px;
     margin-bottom: 50px;
 }
 #temas{
     margin-top: 40px;
-    margin-left: 100px;
+    margin-left: 50px;
     margin-bottom: 50px;
 }
 /*section episodios*/
 .primer #episodios{
-    margin-left: 100px;
+    margin-left: 50px;
     display: grid;
     grid-template-columns: auto auto;
     text-decoration:none;
@@ -352,7 +352,7 @@ label{
     #episodios #temas{
         color: white;
     }
-    #estelares #topicos #temas{
+    #estelares #topicos #temas h2{
         margin-left: 20px;
     }
     /*setion phone responsive*/
